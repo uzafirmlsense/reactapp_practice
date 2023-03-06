@@ -1,5 +1,5 @@
 runtime: nodejs18 # or another supported version
-service: react_practice_blog
+service: react-practice-blog
 handlers:
   # Serve all static files with url ending with a file extension
   - url: /(.*\..+)$
